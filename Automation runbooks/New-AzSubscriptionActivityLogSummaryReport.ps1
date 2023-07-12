@@ -2,7 +2,7 @@
 ##                AZURE AUTOMATION RUNBOOK                 ##
 ##                                                         ##
 ## Retrieves activity log events for an Azure subscription ##
-## and sends a summary email      .                         ##
+## and sends a summary email                               ##
 #############################################################
 
 # Parameters
